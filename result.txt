@@ -1,0 +1,4 @@
+hello from tek up
+
+
+openssl enc -aes-256-cbc -a -salt -d -in encrypted_data.txt -out decrypted_data.txt -pass file:C:\Users\alaed\OneDrive\Bureau\cii_3_éme_\Securité\mini_project_reclamation/symmetric_key.txt
